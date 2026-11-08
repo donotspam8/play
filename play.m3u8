@@ -1,5 +1,23 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+
+
+💎4K/UHD✨
+
+#EXTINF:-1 tvg-id="home-4k" tvg-logo="https://iptvx.one/picons/home4k.png" group-title="💎4K/UHD✨",HOME 4K「UHD」
+http://tv.ttk.mx:9197
+
+#EXTINF:-1 tvg-id="quadro4k" tvg-logo="https://iptvx.one/picons/quadro4k.png" group-title="💎4K/UHD✨",Quadro 4K「UHD」
+http://tv.ttk.mx:9202
+
+#EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="https://iptvx.one/picons/glazami-turista-4k.png" group-title="💎4K/UHD✨",Глазами туриста 4K「UHD」
+http://tv.ttk.mx:9120
+
+#EXTINF:-1 tvg-id="insight-ultra-hd" tvg-logo="https://iptvx.one/picons/insight-ultra-hd.png" group-title="💎4K/UHD✨",Инсайт ТВ 4K「UHD」
+http://stream.mcquack.net/361/index.m3u8
+
+
+
 👼🏼ДЕТСКИЕ🧸
 
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="👼🏼Детские🧸",Ani「SD」
