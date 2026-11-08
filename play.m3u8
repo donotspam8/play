@@ -1,0 +1,96 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+👼🏼ДЕТСКИЕ🧸
+
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="👼🏼Детские🧸",Ani「SD」
+http://stream.mcquack.net/306/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-title="👼🏼Детские🧸",Baby Time「SD」
+http://178.134.1.158:8081/babytime/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" group-title="👼🏼Детские🧸" ,Cartoon Classics「SD」
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="👼🏼Детские🧸" ,Cartoon Network ❌
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
+
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="👼🏼Детские🧸",Da Vinci「FHD, A」
+https://stream8.cinerama.uz/1231/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="👼🏼Детские🧸" ,Duck TV「FHD, A」
+https://stream8.cinerama.uz/1271/index.m3u8
+
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="👼🏼Детские🧸",FAN「FHD」
+http://stream.mcquack.net/420/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli-girl.png" group-title="👼🏼Детские🧸",Gulli Girl「SD」
+http://stream.mcquack.net/305/index.m3u8
+
+#EXTINF:-1 tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png" group-title="👼🏼Детские🧸",JimJam「SD」
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="👼🏼Детские🧸",Nick Jr.「SD」
+http://stream.mcquack.net/220/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="👼🏼Детские🧸",Nickelodeon「FHD,」
+http://stream.mcquack.net/443/index.m3u8
+
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png" group-title="👼🏼Детские🧸",Nicktoons「FHD, A」
+https://stream8.cinerama.uz/1502/index.m3u8
+
+#EXTINF:-1 tvg-id="sumiko" tvg-logo="https://iptvx.one/picons/sumiko.png" group-title="👼🏼Детские🧸",Sumiko「FHD」
+http://tv.ttk.mx:9133
+
+#EXTINF:-1 tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="👼🏼Детские🧸",TiJi「SD」
+http://stream.mcquack.net/111/index.m3u8
+
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="👼🏼Детские🧸",В гостях у сказки「FHD」
+http://stream.mcquack.net/93/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png" group-title="👼🏼Детские🧸",Детский「SD」
+https://stream8.cinerama.uz/1033/index.m3u8
+
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="👼🏼Детские🧸",Детский мир「SD」
+http://tv.ttk.mx:9063
+
+#EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://iptvx.one/picons/capfantast.png" group-title="👼🏼Детские🧸",Капитан Фантастика「FHD」
+http://stream.mcquack.net/144/index.m3u8
+
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="👼🏼Детские🧸",Карусель「SD」
+http://stream.mcquack.net/120/index.m3u8
+
+#EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="👼🏼Детские🧸",Мама「SD」
+http://stream.mcquack.net/79/index.m3u8
+
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="👼🏼Детские🧸",Мульт「FHD」
+http://stream.mcquack.net/232/index.m3u8
+
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="👼🏼Детские🧸",Мульт и Музыка「SD」
+http://stream.mcquack.net/82/index.m3u8
+
+#EXTINF:-1 tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="👼🏼Детские🧸",Мультиландия「SD」
+https://stream8.cinerama.uz/1440/index.m3u8
+
+#EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="👼🏼Детские🧸",О!「SD」
+http://stream.mcquack.net/60/index.m3u8
+
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="👼🏼Детские🧸",Радость моя「SD」
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="👼🏼Детские🧸",Рыжий「SD」
+https://stream8.cinerama.uz/1407/index.m3u8
+
+#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="👼🏼Детские🧸",Смайл ТВ「SD」
+https://stream8.cinerama.uz/1425/index.m3u8
+
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://iptvx.one/picons/smotrim-100-detskoe.png" group-title="👼🏼Детские🧸",Смотрим 100% Детское「FHD, A」
+https://stream.smotrim.ru/hls3/fasttv05/playlist.m3u8?entity=channel&id=397&sign=3f2815ff49d992157fb3d2e817d17cfa
+
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="👼🏼Детские🧸",Солнце「SD」
+http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="👼🏼Детские🧸",СТС Kids「FHD」
+http://stream.mcquack.net/197/index.m3u8
+
+#EXTINF:-1 tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png" group-title="👼🏼Детские🧸", СуперГерои「SD」
+http://tv.ttk.mx:9194
