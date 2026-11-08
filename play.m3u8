@@ -583,6 +583,129 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd
 
 
 
+
+📰НОВОСТНЫЕ📢
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="📰Новостные📢",EuroNews「HD, A」
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="📰Новостные📢",Вместе-РФ「FHD」
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://iptvx.one/picons/dozhd.png" group-title="📰Новостные📢",Дождь「FHD, A」
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="📰Новостные📢",Известия「FHD, A」
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="📰Новостные📢",Крик-ТВ「FHD」
+http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="📰Новостные📢",Мир 24「FHD」
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="📰Новостные📢",Настоящее время「FHD」
+http://stream.mcquack.net/384/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2022/06/logo-new.png" group-title="📰Новостные📢",ОСН ТВ「FHD」
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+
+#EXTINF:-1 tvg-id=pro-business"" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="📰Новостные📢",Про бизнес「SD」
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="📰Новостные📢",РБК「FHD, A」
+https://online-video.rbc.ru/online/rbctv.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="📰Новостные📢",Россия 24「FHD, A」
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="📰Новостные📢",Россия 24 int.「SD, A」
+https://stream.smotrim.ru/hls/russia24_int/playlist.m3u8?entity=channel&id=597&sign=bbf43a8238f0b14db8dce712474c4f1e
+
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="📰Новостные📢",Соловьёв Live「FHD, A」
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://toplogos.ru/images/logo-tass.png" group-title="📰Новостные📢",ТАСС「FHD」
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="📰Новостные📢",Царьград「FHD, A」
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+
+
+
+🧠ПОЗНАВАТЕЛЬНЫЕ⚛️
+
+#EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="🧠Познавательные⚛️",365 дней ТВ「SD」
+http://stream.mcquack.net/70/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🧠Познавательные⚛️",Discovery Channel「FHD」
+http://stream.mcquack.net/177/index.m3u8
+
+#EXTINF:-1 tvg-id="english-club-tv" tvg-logo="https://iptvx.one/picons/englishclub.png" group-title="🧠Познавательные⚛️",English Club TV「SD」
+https://stream8.cinerama.uz/1442/index.m3u8
+
+#EXTINF:-1 tvg-id="id-extra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="🧠Познавательные⚛️",Investigation Discovery「FHD」
+http://stream.mcquack.net/205/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="🧠Познавательные⚛️",National Geographic「FHD」
+http://stream.mcquack.net/116/index.m3u8
+
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="🧠Познавательные⚛️",RTД「FHD, A」
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="🧠Познавательные⚛️",Univer TV「FHD, A」
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="🧠Познавательные⚛️",viju Explore「FHD」
+http://stream.mcquack.net/239/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="🧠Познавательные⚛️",viju History「FHD」
+http://stream.mcquack.net/101/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history-hd.png" group-title="🧠Познавательные⚛️",viju+ Planet「FHD」
+http://stream.mcquack.net/240/index.m3u8
+
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="🧠Познавательные⚛️",Вопросы о ответы「SD」
+http://stream.mcquack.net/76/index.m3u8
+
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="🧠Познавательные⚛️",Живая планета「SD」
+http://stream.mcquack.net/83/index.m3u8
+
+#EXTINF:-1 tvg-id="kaleydoskop" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="🧠Познавательные⚛️",Калейдоскоп ТВ「SD」
+https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ministerstvo-idey" tvg-logo="https://iptvx.one/picons/ministerstvo-idey.png" group-title="🧠Познавательные⚛️",Министерство идей「SD」
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nano-tv" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="🧠Познавательные⚛️",Нано「FHD」
+http://stream.mcquack.net/419/index.m3u8
+
+#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="🧠Познавательные⚛️",Наука「FHD」
+http://stream.mcquack.net/125/index.m3u8
+
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="🧠Познавательные⚛️",НТВ Неизвестная Россия 「SD, A」
+https://cdn.ntv.ru/unknown_russia/index.m3u8
+
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="🧠Познавательные⚛️",Первый Космический「FHD, A」
+https://stream8.cinerama.uz/1415/index.m3u8
+
+#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="🧠Познавательные⚛️",Просвещение「SD」
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+
+#EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="🧠Познавательные⚛️",Психология「SD」
+http://tv.ttk.mx:9033
+
+#EXTINF:-1 tvg-id="smotrim-100-k-odnomu" tvg-logo="https://iptvx.one/picons/smotrim-100-k-odnomu.png" group-title="🧠Познавательные⚛️",Смотрим 100% к одному「FHD, A」
+https://stream.smotrim.ru/hls3/fasttv08/playlist.m3u8?entity=channel&id=988&sign=0c3243bc91d0b7cd23688d61c7a98d08
+
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://iptvx.one/picons/smotrim-100-fakty.png" group-title="🧠Познавательные⚛️",Смотрим 100% Факты「FHD, A」
+https://stream.smotrim.ru/hls3/fasttv06/playlist.m3u8?entity=channel&id=395&sign=1dc4ca8fb01e025545b0e6e70164cbf6
+
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🧠Познавательные⚛️",Тайны галактики「SD」
+http://tv.ttk.mx:9071
+
+
+
 🎎ИРКУТСКАЯ ОБЛАСТЬ🌐
 
 #EXTINF:-1 tvg-id="aist" tvg-logo="https://iptvx.one/picons/aist.png" group-title="🎎Иркутская обл.🌐",АИСТ (Иркутск)「FHD」
