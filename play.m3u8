@@ -581,3 +581,57 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="🎧Музыкальные💃🏼",Шансон ТВ「SD」
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8
 
+
+
+🎎ИРКУТСКАЯ ОБЛАСТЬ🌐
+
+#EXTINF:-1 tvg-id="aist" tvg-logo="https://iptvx.one/picons/aist.png" group-title="🎎Иркутская обл.🌐",АИСТ (Иркутск)「FHD」
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bst-bratsk" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="🎎Иркутская обл.🌐",БСТ 24 (Братск)「FHD, A」
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="https://iptvx.one/picons/nts-irkutsk.png" group-title="🎎Иркутская обл.🌐",НТС (Иркутск)「FHD, A」
+https://air.nts-tv.ru/nts.m3u8
+
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/600/1.png" group-title="🎎Иркутская обл.🌐",Россия 1 (Иркутск)「SD, A」
+https://live-gtrk.smotrim.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/608/4.png" group-title="🎎Иркутская обл.🌐",Россия 24 (Иркутск)「SD, A」
+https://live-gtrk.smotrim.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="tivisi-hd" tvg-logo="https://iptvx.one/picons/tivisi-hd.png" group-title="🎎Иркутская обл.🌐",ТиВиСи「FHD」
+https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv_tcode1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaohvat.ru/uploads/smi/42b13d02a31c12df5e7291d3386632a6.jpeg" group-title="🎎Иркутская обл.🌐",ТРК «Братск»「SD」
+https://stream.trk-bratsk.tv/live_360_576p.m3u8
+
+#EXTINF:-1 tvg-id="tst-cheremchovo" tvg-logo="https://iptvx.one/picons/tst-cheremchovo.png" group-title="🎎Иркутская обл.🌐",ТСТ (Черемхово)「FHD」
+http://5.183.155.8:88/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/584/9.png" group-title="🎎Иркутская обл.🌐",📻Вести FM (Иркутск)
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/vestifm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.ru/assets/image/radio/180/golos-angari.jpg" group-title="🎎Иркутская обл.🌐",📻Голос Ангары (Братск)
+http://91.189.162.134:8006/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.ru/assets/image/radio/180/dushevnoe.png" group-title="🎎Иркутская обл.🌐",📻Душевное радио (Нижнеудинск)
+http://l29.no-ip.org:8004/;?1791990181175
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiogenerator.ru/upload/iblock/3a9/komsomolskaya_pravda_moskva.png" group-title="🎎Иркутская обл.🌐",📻Радио Комсомольская правда (Иркутск)
+https://kpradio.hostingradio.ru:8003/irkutsk.radiokp128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/584/4.png" group-title="🎎Иркутская обл.🌐",📻Радио Маяк (Иркутск)
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/mayak/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://topradio.me/assets/image/radio/180/otlichnoe.webp" group-title="🎎Иркутская обл.🌐",📻Отличное радио (Нижнеудинск)
+http://l29.no-ip.org:8003/;?1791990454796
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/901/584/7.png" group-title="🎎Иркутская обл.🌐",📻Радио России (Иркутск)
+https://podcast-gtrk.smotrim.ru/vgtrk/irkutsk/radio_russia/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1005677/logo_QZzIOOp5iD.jpg" group-title="🎎Иркутская обл.🌐",📻Старое Доброе Радио (Братск)
+https://radiozoo.ru/staroe-dobroe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1005254/logo_PIbCyS2SWl.jpg" group-title="🎎Иркутская обл.🌐",📻Удалое радио (Нижнеудинск)
+http://l29.no-ip.org:8002/;?1791990288469
