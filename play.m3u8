@@ -112,3 +112,60 @@ http://stream.mcquack.net/197/index.m3u8
 
 #EXTINF:-1 tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png" group-title="👼🏼Детские🧸", СуперГерои「SD」
 http://tv.ttk.mx:9194
+
+
+
+🏡ДОМ И САД👨🏼‍🌾
+
+##EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bobior.png" group-title="🏡Дом и сад👨🏼‍🌾",Бобёр「SD」
+http://tv.ttk.mx:9077
+
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="🏡Дом и сад👨🏼‍🌾",Загородная жизнь「SD」
+http://tv.ttk.mx:9157
+
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="🏡Дом и сад👨🏼‍🌾",Загородный「SD」
+https://stream8.cinerama.uz/1410/index.m3u8
+
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🏡Дом и сад👨🏼‍🌾",Усадьба「SD」
+http://tv.ttk.mx:9037
+
+
+
+🐶ЖИВОТНЫЕ🐻‍❄️
+
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="🐶Животные🐻‍❄️",Animal Planet「FHD」
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🐶Животные🐻‍❄️", National Geographic Wild「FHD」
+http://stream.mcquack.net/149/index.m3u8
+
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="🐶Животные🐻‍❄️",В мире животных「FHD」
+http://stream.mcquack.net/241/index.m3u8
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="🐶Животные🐻‍❄️",Домашние животные「SD」
+http://tv.ttk.mx:9035
+
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="🐶Животные🐻‍❄️",Зоопарк「SD」
+https://stream8.cinerama.uz/1417/index.m3u8
+
+
+
+🩺ЗДОРОВЬЕ⚕️
+
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="🩺Здоровье⚕️",Доктор「FHD」
+http://stream.mcquack.net/80/index.m3u8
+
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://iptvx.one/picons/zhivi.png" group-title="🩺Здоровье⚕️",Живи!「SD」
+https://stream8.cinerama.uz/1419/index.m3u8
+
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="🩺Здоровье⚕️",Живи активно「FHD」
+http://stream.mcquack.net/132/index.m3u8
+
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="🩺Здоровье⚕️",Здоровое ТВ「SD」
+http://tv.ttk.mx:9036
+
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="🩺Здоровье⚕️",Открытый мир. Здоровье「SD」
+https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="🩺Здоровье⚕️",Тонус「SD」
+http://194.143.148.28:8080/Mir24/index.m3u8
