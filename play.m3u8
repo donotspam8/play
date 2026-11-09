@@ -709,6 +709,77 @@ http://tv.ttk.mx:9071
 
 
 
+🤪РАЗВЛЕКАТЕЛЬНЫЕ🤡
+
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="🤪Развлекательные🤡",2х2「SD」
+http://stream.mcquack.net/187/index.m3u8
+
+#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://iptvx.one/picons/8kanal-eu.png" group-title="🤪Развлекательные🤡",8 канал int.「SD」
+https://stream8.cinerama.uz/1262/index.m3u8
+
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="🤪Развлекательные🤡",Gagsnetwork「FHD」
+http://stream.mcquack.net/458/index.m3u8
+
+#EXTINF:-1 tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube-tv.png" group-title="🤪Развлекательные🤡",RUTUBE TV「FHD」
+https://river-3-355.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/DKvILzT8IkCxvpOwhQIkNQ/1794807751/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🤪Развлекательные🤡",TLC Россия「FHD」
+http://stream.mcquack.net/168/index.m3u8
+
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="🤪Развлекательные🤡",КВН ТВ「SD」
+http://178.124.179.122:8080/KVN-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="🤪Развлекательные🤡",НТВ Право「SD, A」
+https://cdn.ntv.ru/th_pravo/index.m3u8
+
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec-int.png" group-title="🤪Развлекательные🤡",Перец int.「SD」
+http://stream.mcquack.net/121/index.m3u8
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="🤪Развлекательные🤡",Пятница!「FHD」
+http://stream.mcquack.net/181/index.m3u8
+
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="🤪Развлекательные🤡",Сарафан「SD」
+http://stream.mcquack.net/81/index.m3u8
+
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://iptvx.one/picons/smotrim-100-prazdnik.png" group-title="🤪Развлекательные🤡",Смотрим 100% Праздник「FHD, A」
+https://stream.smotrim.ru/hls3/fasttv04/playlist.m3u8?entity=channel&id=399&sign=8e6c4c2402fda78775905b18525359fa
+
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="🤪Развлекательные🤡",СТС「FHD」
+http://stream.mcquack.net/138/index.m3u8
+
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="🤪Развлекательные🤡",СТС Love「SD」
+http://stream.mcquack.net/183/index.m3u8
+
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="🤪Развлекательные🤡",Суббота「FHD」
+http://stream.mcquack.net/269/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="🤪Развлекательные🤡",ТНТ「FHD」
+http://stream.mcquack.net/135/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="🤪Развлекательные🤡",ТНТ4「FHD」
+http://stream.mcquack.net/106/index.m3u8
+
+
+
+🧘🏼‍♂️РАССЛАБЛЯЮЩИЕ💤
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="🧘🏼‍♂️Расслабляющие💤",Drone TV「FHD, A」
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="🧘🏼‍♂️Расслабляющие💤",Space Live. Powered by Sen「FHD, A」
+https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AHIo9oz.png" group-title="🧘🏼‍♂️Расслабляющие💤",Screen Dreams「HD, A」
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://brucetelecom.com/wp-content/uploads/2020/01/Stingray_Naturescape_RGB.png" group-title="🧘🏼‍♂️Расслабляющие💤",Stingray Naturescape「FHD」
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/25fcdb04c5a68f6a70970338e8de644c.png" group-title="🧘🏼‍♂️Расслабляющие💤",ZenLIFE by Stingray「FHD」
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+
+
+
 🙏🏼РЕЛИГИОЗНЫЕ✝️
 
 #EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="🙏🏼Религиозные✝️",Angel TV Россия「HD, A」
