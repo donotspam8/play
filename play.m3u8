@@ -709,6 +709,37 @@ http://tv.ttk.mx:9071
 
 
 
+🧭ПУТЕШЕСТВИЯ✈️
+
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="🧭Путешествия✈️",RTG HD「FHD」
+http://stream.mcquack.net/164/index.m3u8
+
+#EXTINF:-1 tvg-id="rtg-int" tvg-logo="https://iptvx.one/picons/rtg-int.png" group-title="🧭Путешествия✈️",RTG int.「SD」
+http://213.91.179.28:8000/play/a0bw
+
+#EXTINF:-1 tvg-id="travel-channel" tvg-logo="https://iptvx.one/picons/travel-channel.png" group-title="🧭Путешествия✈️",Travel Channel「FHD」
+http://stream.mcquack.net/231/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="🧭Путешествия✈️",Travel+Adventure「FHD」
+http://stream.mcquack.net/206/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-xp-hd" tvg-logo="https://iptvx.one/picons/travel-xp-hd.png" group-title="🧭Путешествия✈️",travelxp HD「FHD」
+http://stream.mcquack.net/451/index.m3u8
+
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🧭Путешествия✈️",Глазами туриста「FHD」
+http://stream.mcquack.net/304/index.m3u8
+
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="🧭Путешествия✈️",Моя Планета「FHD」
+http://stream.mcquack.net/124/index.m3u8
+
+#EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🧭Путешествия✈️",Поехали!「SD」
+http://tv.ttk.mx:9082
+
+#EXTINF:-1 tvg-id="hd-life" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="🧭Путешествия✈️",Точка РФ「FHD」
+http://stream.mcquack.net/161/index.m3u8
+
+
+
 🤪РАЗВЛЕКАТЕЛЬНЫЕ🤡
 
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="🤪Развлекательные🤡",2х2「SD」
