@@ -706,6 +706,34 @@ http://tv.ttk.mx:9071
 
 
 
+🙏🏼РЕЛИГИОЗНЫЕ✝️
+
+#EXTINF:-1 tvg-id="angel-tv" tvg-logo="https://iptvx.one/picons/angel-tv.png" group-title="🙏🏼Религиозные✝️",Angel TV Россия「HD, A」
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vera24.tv/wp-content/uploads/2020/03/VERA_theme.png" group-title="🙏🏼Религиозные✝️",Вера 24 TV「HD」
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-logo="https://iptvx.one/picons/muzsoyuz.png" group-title="🙏🏼Религиозные✝️",МузСоюз「FHD」
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" group-title="🙏🏼Религиозные✝️",Надежда「HD」
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png" group-title="🙏🏼Религиозные✝️",Союз「FHD」
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="🙏🏼Религиозные✝️",Спас「SD, A」
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://iptvx.one/picons/tbn-ru.png" group-title="🙏🏼Религиозные✝️",ТБН「HD, A」
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tri-angela" tvg-logo="https://iptvx.one/picons/tri-angela.png" group-title="🙏🏼Религиозные✝️",Три Ангела「HD」
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+
+
+
 🎎ИРКУТСКАЯ ОБЛАСТЬ🌐
 
 #EXTINF:-1 tvg-id="aist" tvg-logo="https://iptvx.one/picons/aist.png" group-title="🎎Иркутская обл.🌐",АИСТ (Иркутск)「FHD」
