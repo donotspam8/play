@@ -10,6 +10,9 @@ http://tv.ttk.mx:9197
 #EXTINF:-1 tvg-id="quadro4k" tvg-logo="https://iptvx.one/picons/quadro4k.png" group-title="💎4K/UHD✨",Quadro 4K「UHD」
 http://tv.ttk.mx:9202
 
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://iptvx.one/picons/russian-extreme-uhd.png" group-title="💎4K/UHD✨",Russian Extreme Ultra「UHD」
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+
 #EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="https://iptvx.one/picons/glazami-turista-4k.png" group-title="💎4K/UHD✨",Глазами туриста 4K「UHD」
 http://tv.ttk.mx:9120
 
@@ -731,6 +734,82 @@ https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m
 
 #EXTINF:-1 tvg-id="tri-angela" tvg-logo="https://iptvx.one/picons/tri-angela.png" group-title="🙏🏼Религиозные✝️",Три Ангела「HD」
 https://hls.tv.3angels.ru/stream/HQ.m3u8
+
+
+
+🏆СПОРТИВНЫЕ🥇
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="🏆Спортивные🥇",Eurosport 1「FHD, A」
+https://stream8.cinerama.uz/1439/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="🏆Спортивные🥇",Eurosport 2「FHD, A」
+https://stream8.cinerama.uz/1452/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.kion.ru/tv/channels/images/formats/BLACK_AND_WHITE_f6056aed02bee18bc8ea0e968ef77825.png" group-title="🏆Спортивные🥇",FON TV「FHD, A」
+https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png" group-title="🏆Спортивные🥇",MMA-TV「FHD, A」
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://iptvx.one/picons/russky-ekstrim.png" group-title="🏆Спортивные🥇",Russian Extreme「SD」
+http://stream.mcquack.net/148/index.m3u8
+
+#EXTINF:-1 tvg-id="trace-sport-stars-ru" tvg-logo="https://iptvx.one/picons/trace-sport-stars-ru.png" group-title="🏆Спортивные🥇",Trace Sport Stars「FHD, A」
+https://stream8.cinerama.uz/1274/index.m3u8
+
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://iptvx.one/picons/ufc.png" group-title="🏆Спортивные🥇",UDAR「FHD」
+http://stream.mcquack.net/279/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="🏆Спортивные🥇",viju+ Sport「FHD」
+http://stream.mcquack.net/333/index.m3u8
+
+#EXTINF:-1 tvg-id="box-tv" tvg-logo="https://iptvx.one/picons/box-tv.png" group-title="🏆Спортивные🥇",Бокс ТВ「SD」
+http://stream.mcquack.net/154/index.m3u8
+
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://iptvx.one/picons/voleybol.png" group-title="🏆Спортивные🥇",Волейбол「SD」
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="khl" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏆Спортивные🥇",КХЛ「SD」
+http://stream.mcquack.net/166/index.m3u8
+
+#EXTINF:-1 tvg-id="khl-hd" tvg-logo="https://iptvx.one/picons/kxl-hd.png" group-title="🏆Спортивные🥇",КХЛ Prime「FHD」
+http://stream.mcquack.net/178/index.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏆Спортивные🥇",Матч!「FHD」
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏆Спортивные🥇",Матч! Арена「FHD」
+http://stream.mcquack.net/163/index.m3u8
+
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://iptvx.one/picons/match-boec.png" group-title="🏆Спортивные🥇",Матч! Боец「FHD」
+http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏆Спортивные🥇",Матч! Игра「FHD」
+http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://iptvx.one/picons/match-planeta.png" group-title="🏆Спортивные🥇",Матч! Планета「SD」
+https://stream8.cinerama.uz/1243/index.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏆Спортивные🥇",Матч! Премьер「FHD」
+http://stream.mcquack.net/193/index.m3u8
+
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏆Спортивные🥇",Матч! Страна「FHD」
+http://stream.mcquack.net/143/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏆Спортивные🥇",Матч! Футбол 1「FHD」
+http://stream.mcquack.net/130/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏆Спортивные🥇",Матч! Футбол 2「FHD,」
+http://stream.mcquack.net/142/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏆Спортивные🥇",Матч! Футбол 3「FHD」
+http://stream.mcquack.net/185/index.m3u8
+
+#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏆Спортивные🥇",ТВ Спорт「FHD, A」
+https://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-id="football.ru" tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="🏆Спортивные🥇",Футбол「SD」
+http://178.124.179.122:8088/Setanta1/index.m3u8
 
 
 
