@@ -734,6 +734,67 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 
 
+⏳ЧАСОВЫЕ ДУБЛИ⏩
+
+#EXTINF:-1 tvg-id="mir-pl2" tvg-logo="https://iptvx.one/picons/mir-pl2.png" group-title="⏳Часовые дубли⏩",Мир (+2)「SD」
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-pl4" tvg-logo="https://iptvx.one/picons/mir-pl4.png" group-title="⏳Часовые дубли⏩",Мир (+4)「SD」
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-pl7" tvg-logo="https://iptvx.one/picons/mir-pl7.png" group-title="⏳Часовые дубли⏩",Мир (+7)「SD」
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://iptvx.one/picons/ntv-pl1.png" group-title="⏳Часовые дубли⏩",НТВ (+1)「SD, A」
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" group-title="⏳Часовые дубли⏩",НТВ (+2)「SD, A」
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" group-title="⏳Часовые дубли⏩",НТВ (+4)「SD, A」
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl7" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" group-title="⏳Часовые дубли⏩",НТВ (+7)「SD, A」
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" group-title="⏳Часовые дубли⏩",Россия 1 (+1)「FHD, A」
+https://live.smotrim.ru/vgtrk/1/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" group-title="⏳Часовые дубли⏩",Россия 1 (+2)「FHD, A」
+https://live.smotrim.ru/vgtrk/2/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="⏳Часовые дубли⏩",Россия 1 (+3)「FHD, A」
+https://live.smotrim.ru/vgtrk/3/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" group-title="⏳Часовые дубли⏩",Россия 1 (+4)「FHD, A」
+https://live.smotrim.ru/vgtrk/4/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="⏳Часовые дубли⏩",Россия 1 (+5)「FHD, A」
+https://live.smotrim.ru/vgtrk/5/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" group-title="⏳Часовые дубли⏩",Россия 1 (+6)「FHD, A」
+https://live.smotrim.ru/vgtrk/6/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" group-title="⏳Часовые дубли⏩",Россия 1 (+7)「FHD, A」
+https://live.smotrim.ru/vgtrk/7/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" group-title="⏳Часовые дубли⏩",Россия 1 (+8)「FHD, A」
+https://live.smotrim.ru/vgtrk/8/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-pl" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" group-title="⏳Часовые дубли⏩",Россия 1 (+9)「FHD, A」
+https://live.smotrim.ru/vgtrk/9/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura-pl2" tvg-logo="https://iptvx.one/picons/kultura-pl2.png" group-title="⏳Часовые дубли⏩",Россия Культура (+2)「FHD, A」
+https://live.smotrim.ru/vgtrk/2/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura-pl4" tvg-logo="https://iptvx.one/picons/kultura-pl4.png" group-title="⏳Часовые дубли⏩",Россия Культура (+4)「FHD, A」
+https://live.smotrim.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura-pl7" tvg-logo="https://iptvx.one/picons/kultura-pl7.png" group-title="⏳Часовые дубли⏩",Россия Культура (+7)「FHD, A」
+https://live.smotrim.ru/vgtrk/7/kultura-hd/index.m3u8
+
+
+
 🎎ИРКУТСКАЯ ОБЛАСТЬ🌐
 
 #EXTINF:-1 tvg-id="aist" tvg-logo="https://iptvx.one/picons/aist.png" group-title="🎎Иркутская обл.🌐",АИСТ (Иркутск)「FHD」
