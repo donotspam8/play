@@ -734,6 +734,22 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 
 
+🛞ТРАНСПОРТНЫЕ🏁
+
+#EXTINF:-1 tvg-id="avto-24" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="🛞Транспортные🏁",Авто24「FHD」
+http://stream.mcquack.net/78/index.m3u8
+
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🛞Транспортные🏁",Авто Плюс「FHD」
+http://stream.mcquack.net/186/index.m3u8
+
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🛞Транспортные🏁",Драйв「SD」
+https://stream8.cinerama.uz/1421/index.m3u8
+
+#EXTINF:-1 tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png" group-title="🛞Транспортные🏁",РЖД ТВ 🆔「FHD」
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
+
+
 ⏳ЧАСОВЫЕ ДУБЛИ⏩
 
 #EXTINF:-1 tvg-id="mir-pl2" tvg-logo="https://iptvx.one/picons/mir-pl2.png" group-title="⏳Часовые дубли⏩",Мир (+2)「SD」
