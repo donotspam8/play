@@ -636,6 +636,104 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=20
 
 
 
+👥ОБЩЕСТВЕННЫЕ🫂
+
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://iptvx.one/picons/cctv-ru.png" group-title="👥Общественные🫂",CGTN Русский「FHD, A」
+https://stream8.cinerama.uz/1456/index.m3u8
+
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="👥Общественные🫂",Домашний「FHD」
+http://stream.mcquack.net/227/index.m3u8
+
+#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="👥Общественные🫂",Дума ТВ「HD」
+http://185.23.80.23:8080/DumaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://iptvx.one/picons/kongresstv.png" group-title="👥Общественные🫂",Конгресс ТВ「FHD」
+https://live-3.otcnet.ru/congresstv/index.m3u8
+
+#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="👥Общественные🫂",Красная линия「SD」
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="👥Общественные🫂",ЛДПР ТВ❌
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="👥Общественные🫂",Мир「FHD」
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="👥Общественные🫂",НТВ「FHD」
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="👥Общественные🫂",ОТР「SD」
+http://tv.ttk.mx:9008
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="👥Общественные🫂",Первый канал「FHD, A」
+http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjMvMXR2LzF0dmNoL3N0cmVhbXMuanNvbg
+
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="👥Общественные🫂",ПРНК「HD」
+https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="👥Общественные🫂",Продвижение*「FHD, A」
+https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="👥Общественные🫂",Пятый канал「SD」
+http://tv.ttk.mx:9004
+
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="👥Общественные🫂",РЕН ТВ「SD」
+http://tv.ttk.mx:9010
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="👥Общественные🫂",Россия 1「FHD, A」
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="👥Общественные🫂",Россия Культура「FHD, A」
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png" group-title="👥Общественные🫂",РТР-Планета. Азия「HD, A」
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="👥Общественные🫂",РТР-Планета. Европа「HD, A」
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+
+#EXTINF:-1 tvg-id="rtr-planeta-ua" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="👥Общественные🫂",РТР-Планета. СНГ「HD, A」
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
+
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" tvg-logo="https://iptvx.one/picons/rtr-planeta.png" group-title="👥Общественные🫂",РТР-Планета. США「HD, A」
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
+
+#EXTINF:-1 tvg-id="tro" tvg-logo="https://iptvx.one/picons/belros.png" group-title="👥Общественные🫂",Союзный「FHD, A」
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="👥Общественные🫂",ТВ-3「FHD」
+http://stream.mcquack.net/136/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="👥Общественные🫂",ТВ Центр「FHD, A」
+https://stream8.cinerama.uz/1281/index.m3u8
+
+
+
+🏹ОХОТА И РЫБАЛКА🎣
+
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="🏹Охота и рыбалка🎣",Диалоги о рыбалке「FHD」
+http://stream.mcquack.net/264/index.m3u8
+
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png" group-title="🏹Охота и рыбалка🎣",Дикая охота HD「FHD」
+http://stream.mcquack.net/274/index.m3u8
+
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://iptvx.one/picons/dikaya-rybalka-hd.png" group-title="🏹Охота и рыбалка🎣",Дикая рыбалка HD「FHD」
+http://stream.mcquack.net/275/index.m3u8
+
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="🏹Охота и рыбалка🎣",Дикий「SD」
+https://stream3.cinerama.uz/1230/index.m3u8
+
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png" group-title="🏹Охота и рыбалка🎣",Наша тема「FHD」
+https://live-3.otcnet.ru/nashatema/index.m3u8
+
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="🏹Охота и рыбалка🎣",Охота и рыбалка「SD」
+http://stream.mcquack.net/155/index.m3u8
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="🏹Охота и рыбалка🎣",Охотник и рыболов「FHD」
+http://stream.mcquack.net/194/index.m3u8
+
+
+
 🧠ПОЗНАВАТЕЛЬНЫЕ⚛️
 
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://iptvx.one/picons/365-dnej.png" group-title="🧠Познавательные⚛️",365 дней ТВ「SD」
