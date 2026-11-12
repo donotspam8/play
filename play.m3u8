@@ -1313,7 +1313,570 @@ https://live.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="♂️Сексуальные♀️",AdultIPTV.net Threesome「HD」
 http://live.adultiptv.net/threesome.m3u8
 
+🇧🇾БЕЛОРУССКИЕ🍟
 
+#EXTINF:-1 tvg-id="belarus1" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="🇧🇾Белорусские🍟",Беларусь 1「FHD, A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="🇧🇾Белорусские🍟",Беларусь 2「FHD, A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="🇧🇾Белорусские🍟",Беларусь 24「FHD, A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="🇧🇾Белорусские🍟",Беларусь 3「FHD, A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus4-vitebsk" tvg-logo="https://iptvx.one/picons/belarus4-vitebsk.png" group-title="🇧🇾Белорусские🍟",Беларусь 4 (Витебск)「HD」
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus4-gomel" tvg-logo="https://iptvx.one/picons/belarus4-gomel.png" group-title="🇧🇾Белорусские🍟",Беларусь 4 (Гомель)「FHD」
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="🇧🇾Белорусские🍟",Беларусь 5「FHD, A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="🇧🇾Белорусские🍟",Беларусь 5. Интернет
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bug-tv" tvg-logo="https://iptvx.one/picons/bug-tv.png" group-title="🇧🇾Белорусские🍟",Буг ТВ「HD」
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vitebsk" tvg-logo="https://iptvx.one/picons/vitebsk.png" group-title="🇧🇾Белорусские🍟",Витебск「SD」
+http://46.53.200.153:7777/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="voentv-by" tvg-logo="https://iptvx.one/picons/voentv-by.png" group-title="🇧🇾Белорусские🍟",ВоенТВ「FHD」
+http://media1.skifnet.by/voentv/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="🇧🇾Белорусские🍟",Первый информационный「FHD,  A」
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="🇧🇾Белорусские🍟",Первый музыкальный「FHD」
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-id="stv-by" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="🇧🇾Белорусские🍟",СТВ「HD」
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="🇧🇾Белорусские🍟",📻Радио Мир「HD」
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_agtv.png" group-title="🇬🇪Грузинские🍷",AG TV「FHD」🌈
+http://nue01-edge01.itdc.ge/agtv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/52.png" group-title="🇬🇪Грузинские🍷",ARTv「FHD」
+http://nue01-edge01.itdc.ge/tafutv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/10.png" group-title="🇬🇪Грузинские🍷",BMG「FHD」
+http://nue01-edge01.itdc.ge/bmg/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",CMTV「SD」
+https://livechannel.mdc.akamaized.net/stitch/livechannel/706/master800000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_ctv.png" group-title="🇬🇪Грузинские🍷",CTV「FHD」🌈
+http://nue01-edge01.itdc.ge/ctv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/18.png" group-title="🇬🇪Грузинские🍷",EuroNews Georgia「FHD」
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_exclusivetv.png" group-title="🇬🇪Грузинские🍷",Exclusive TV「FHD」🌈
+http://nue01-edge01.itdc.ge/exclusivetv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_gds.png" group-title="🇬🇪Грузинские🍷",GDS「HD」
+http://nue01-edge01.itdc.ge/gdstv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_geochannel.png" group-title="🇬🇪Грузинские🍷",GeoChannel「FHD」🌈
+http://nue01-edge01.itdc.ge/geochannel/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_ggtv.png" group-title="🇬🇪Грузинские🍷",GG TV「FHD」🌈
+http://nue01-edge01.itdc.ge/ggtv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/161.png" group-title="🇬🇪Грузинские🍷",GMS「FHD」
+http://nue01-edge01.itdc.ge/gms/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_gmtv.png" group-title="🇬🇪Грузинские🍷",GMTV「FHD」🌈
+http://nue01-edge01.itdc.ge/gmtv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_megatv.png" group-title="🇬🇪Грузинские🍷",Mega TV「HD」
+http://nue01-edge01.itdc.ge/megatv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/56.png" group-title="🇬🇪Грузинские🍷",Meteo24「FHD」🌈
+http://nue01-edge01.itdc.ge/meteo24/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/34.png" group-title="🇬🇪Грузинские🍷",Music Box「SD」
+http://nue01-edge01.itdc.ge/musicbox/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_o2.png" group-title="🇬🇪Грузинские🍷",O2 – ჟანგბადი「FHD」
+http://nue01-edge01.itdc.ge/o2/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_pktv.png" group-title="🇬🇪Грузинские🍷",PKTV「FHD」
+http://nue01-edge01.itdc.ge/pktv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17847/eabe66f0-84ef-11f1-a9f9-4bd21cc6d6c8_100x100.png" group-title="🇬🇪Грузинские🍷",Setanta Sports 1「HD」
+http://nue01-edge01.itdc.ge/setanta1MSF/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17847/eabe66f0-84ef-11f1-a9f9-4bd21cc6d6c8_100x100.png" group-title="🇬🇪Грузинские🍷",Setanta Sports 2「FHD」
+http://85.117.61.84/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17847/eabe66f0-84ef-11f1-a9f9-4bd21cc6d6c8_100x100.png" group-title="🇬🇪Грузинские🍷",Setanta Sports 3「FHD」
+http://85.117.61.84/setanta3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tiflistv.png" group-title="🇬🇪Грузинские🍷",Tiflis TV「FHD」🌈
+http://nue01-edge01.itdc.ge/tiflistv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_toktv.png" group-title="🇬🇪Грузинские🍷",TOK TV「FHD」
+http://nue01-edge01.itdc.ge/toktv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tv12.png" group-title="🇬🇪Грузинские🍷",TV 12-აჭარა「FHD」🌈
+http://nue01-edge01.itdc.ge/tv12/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tv24.png" group-title="🇬🇪Грузинские🍷",TV 24「FHD」🌈
+http://nue01-edge01.itdc.ge/tv24/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tv25.png" group-title="🇬🇪Грузинские🍷",TV 25「HD」🌈
+http://nue01-edge01.itdc.ge/tv25/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17654/379603e0-d5f9-11f0-9d12-438f9454262d_100x100.png" group-title="🇬🇪Грузинские🍷",TV 36「FHD」
+http://nue01-edge01.itdc.ge/girchitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17654/379603e0-d5f9-11f0-9d12-438f9454262d_100x100.png" group-title="🇬🇪Грузинские🍷",TV 36「HD」
+http://nue01-edge01.itdc.ge/tv36/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_qvemoqartli.png" group-title="🇬🇪Грузинские🍷",TV 4「FHD」
+http://nue01-edge01.itdc.ge/qvemoqartli/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",TV 8「FHD」
+https://live.nexytv.net/nexy_tv.ge.tv8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",TV 9「FHD」🌈
+http://nue01-edge01.itdc.ge/tv9/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/11.png" group-title="🇬🇪Грузинские🍷",TVC「FHD」
+http://nue01-edge01.itdc.ge/comedytv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",TV მონიტორინგი「FHD」
+http://nue01-edge01.itdc.ge/tvmonitoring/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_pirvelitv.png" group-title="🇬🇪Грузинские🍷",TV პირველი 「FHD」
+https://live.nexytv.net/nexy_tv.ge.pirvelitv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_pirvelitv.png" group-title="🇬🇪Грузинские🍷",TV პირველი「HD」
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",TV პლიუსი「FHD」🌈
+http://nue01-edge01.itdc.ge/plustv/mpegts
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="https://static.myvideo.ge/media/cache/image/15530/99396570-4a23-11e9-8333-b99161ee92e7_100x100.png" group-title="🇬🇪Грузинские🍷",TV საფერავი「FHD」🌈
+http://nue01-edge01.itdc.ge/tvsaperavi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tvmax.png" group-title="🇬🇪Грузинские🍷",TV MAX「FHD」🌈
+http://nue01-edge01.itdc.ge/tvmax/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tvsport.png" group-title="🇬🇪Грузинские🍷",TV Sport「FHD」🌈
+http://nue01-edge01.itdc.ge/tvsport/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_youtv.png" group-title="🇬🇪Грузинские🍷",You TV「FHD」🌈
+http://nue01-edge01.itdc.ge/youtv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_piktv.png" group-title="🇬🇪Грузинские🍷",Пик TV「FHD」🌈
+http://nue01-edge01.itdc.ge/piktv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_agrotv.png" group-title="🇬🇪Грузинские🍷",აგრო TV「FHD」
+http://nue01-edge01.itdc.ge/agrotv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_agrogaremo.png" group-title="🇬🇪Грузинские🍷",აგროგარემო「FHD」🌈
+http://nue01-edge01.itdc.ge/agrogaremo/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",აემჯი TV「FHD」
+http://nue01-edge01.itdc.ge/greentv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo=https://static.mar.tv/logos/320/992.png"" group-title="🇬🇪Грузинские🍷",აია TV「FHD」
+https://live.nexytv.net/nexy_tv.ge.aiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_argotv.png" group-title="🇬🇪Грузинские🍷",არგო「SD」
+http://nue01-edge01.itdc.ge/argotv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",არტარეა「FHD」🌈
+http://nue01-edge01.itdc.ge/artarea/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_abkhaz.png" group-title="🇬🇪Грузинские🍷",აფხაზეთის ხმა「SD」
+http://nue01-edge01.itdc.ge/abkhaz/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_adjara.png" group-title="🇬🇪Грузинские🍷",აჭარა「HD」
+http://nue01-edge01.itdc.ge/adjara/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",ახალი「FHD」🌈
+http://nue01-edge01.itdc.ge/akhalitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_axali2hq.png" group-title="🇬🇪Грузинские🍷",ახალი 2 HD「FHD」🌈
+http://nue01-edge01.itdc.ge/axali2hq/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_formula-new.png" group-title="🇬🇪Грузинские🍷",ახალი ფორმულა「SD」
+http://nue01-edge01.itdc.ge/formula-new/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_formula-new.png" group-title="🇬🇪Грузинские🍷",ახალი ფორმულა (R)「SD」
+https://live.nexytv.net/nexy_tv.geformula_new/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_batumitv.png" group-title="🇬🇪Грузинские🍷",ბათუმი TV「FHD」
+http://nue01-edge01.itdc.ge/batumitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_bbb.png" group-title="🇬🇪Грузинские🍷",ბასტი-ბუბუ「FHD」
+http://nue01-edge01.itdc.ge/bbb/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",ბოლნელი「FHD」
+http://nue01-edge01.itdc.ge/bolneli/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",ბორჯომი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/borjomitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_guriatv.png" group-title="🇬🇪Грузинские🍷",გურია TV「FHD」
+http://nue01-edge01.itdc.ge/guriatv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/48.png" group-title="🇬🇪Грузинские🍷",გურჯაანი「FHD」
+http://nue01-edge01.itdc.ge/gurjaani/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/27.png" group-title="🇬🇪Грузинские🍷",დარდიმანდი❌
+http://nue01-edge01.itdc.ge/musictv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_diatv.png" group-title="🇬🇪Грузинские🍷",დია TV「FHD」
+http://nue01-edge01.itdc.ge/diatv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_egrisi.png" group-title="🇬🇪Грузинские🍷",ეგრისი TV「FHD」
+http://nue01-edge01.itdc.ge/egrisitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/17.png" group-title="🇬🇪Грузинские🍷",ენკი-ბენკი「FHD」
+http://nue01-edge01.itdc.ge/enkibenki/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_ertsulovneba.png" group-title="🇬🇪Грузинские🍷",ერთსულოვნება「HD」
+http://nue01-edge01.itdc.ge/ertsulovneba/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_erimedia.png" group-title="🇬🇪Грузинские🍷",ერი მედია「FHD」🌈
+http://nue01-edge01.itdc.ge/erimedia/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_etalontv.png" group-title="🇬🇪Грузинские🍷",ეტალონ TV「FHD」🌈
+http://nue01-edge01.itdc.ge/etalontv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",ზარი TV「FHD」
+http://nue01-edge01.itdc.ge/tvzari/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/17267/f0624a20-75b6-11ef-bbe9-a360d389df5c_100x100.png" group-title="🇬🇪Грузинские🍷",თავისუფალი არხი*「FHD」
+http://nue01-edge01.itdc.ge/ilontv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tanamgzavri.png" group-title="🇬🇪Грузинские🍷",თანამგზავრი TV「FHD」
+http://nue01-edge01.itdc.ge/tanamgzavri/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_trialeti.png" group-title="🇬🇪Грузинские🍷",თრიალეთი TV「HD」
+http://nue01-edge01.itdc.ge/trialeti/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_iberiatv.png" group-title="🇬🇪Грузинские🍷",იბერია TV「FHD」🌈
+http://nue01-edge01.itdc.ge/iberiatv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_imedihd.png" group-title="🇬🇪Грузинские🍷",იმედი「HD」
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_imedi.png" group-title="🇬🇪Грузинские🍷",იმედი「SD」
+http://nue01-edge01.itdc.ge/imedihd/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_imedi.png" group-title="🇬🇪Грузинские🍷",იმედი「SD」
+http://nue01-edge01.itdc.ge/imedi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/43.png" group-title="🇬🇪Грузинские🍷",იმერვიზია「HD」
+http://nue01-edge01.itdc.ge/imervizia/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/6.png" group-title="🇬🇪Грузинские🍷",კავკასია「HD」
+http://nue01-edge01.itdc.ge/caucasia/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",კოლხეთი 89「HD」
+http://nue01-edge01.itdc.ge/kolkheti89/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_comedy.png" group-title="🇬🇪Грузинские🍷",კომედი არხი「SD」
+http://nue01-edge01.itdc.ge/comedy/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_lilotv.png" group-title="🇬🇪Грузинские🍷",ლილო TV「FHD」
+http://nue01-edge01.itdc.ge/lilotv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_maestro.png" group-title="🇬🇪Грузинские🍷",მაესტრო「SD」
+http://nue01-edge01.itdc.ge/maestro/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_marao.png" group-title="🇬🇪Грузинские🍷",მარაო「FHD」
+http://nue01-edge01.itdc.ge/marao/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",მეცხრე ტალღა「FHD」🌈
+http://nue01-edge01.itdc.ge/nwbctv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tv5geo.png" group-title="🇬🇪Грузинские🍷",მეხუთე არხი「FHD」
+http://nue01-edge01.itdc.ge/tv5geo/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_mzareulitv.png" group-title="🇬🇪Грузинские🍷",მზარეული TV「FHD」🌈
+http://nue01-edge01.itdc.ge/mzareulitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_tvmze.png" group-title="🇬🇪Грузинские🍷",მზე「FHD」
+http://nue01-edge01.itdc.ge/tvmze/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_mtavari.png" group-title="🇬🇪Грузинские🍷",მთავარი არხი「FHD」🌈
+http://nue01-edge01.itdc.ge/mtavari/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_malltv.png" group-title="🇬🇪Грузинские🍷",მოლი TV「SD」
+http://nue01-edge01.itdc.ge/malltv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_momavalitv.png" group-title="🇬🇪Грузинские🍷",მომავალი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/momavalitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_obiektivi.png" group-title="🇬🇪Грузинские🍷",ობიექტივი「HD」
+http://nue01-edge01.itdc.ge/obiektivi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/15991/06170de0-ecf5-11ea-8f9d-2bc0c6f0de79_100x100.png" group-title="🇬🇪Грузинские🍷",ოდიში「FHD」
+http://nue01-edge01.itdc.ge/odishi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_palitra.png" group-title="🇬🇪Грузинские🍷",პალიტრანიუსი「HD」
+http://nue01-edge01.itdc.ge/palitra/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/997.png" group-title="🇬🇪Грузинские🍷",პარლამენტის არხი「SD」
+http://nue01-edge01.itdc.ge/parliament/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_gpbhd.png" group-title="🇬🇪Грузинские🍷",პირველი არხი「HD」
+http://nue01-edge01.itdc.ge/gpb/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_gpbhd.png" group-title="🇬🇪Грузинские🍷",პირველი არხი (R)「HD」
+http://nue01-edge01.itdc.ge/gpbhd/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/162.png" group-title="🇬🇪Грузинские🍷",პირველი არხი სპორტი「HD」
+http://nue01-edge01.itdc.ge/teleskola/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/162.png" group-title="🇬🇪Грузинские🍷",პირველი არხი სპორტი (R)「HD」
+http://nue01-edge01.itdc.ge/meore/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_positivetv.png" group-title="🇬🇪Грузинские🍷", პოზიტივი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/positivetv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/31.png" group-title="🇬🇪Грузинские🍷",პოსTV「FHD」
+http://nue01-edge01.itdc.ge/postv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_primetv.png" group-title="🇬🇪Грузинские🍷",პრაიმ TV「FHD」🌈
+http://nue01-edge01.itdc.ge/primetv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_puls.png" group-title="🇬🇪Грузинские🍷",პულსი「HD」
+http://nue01-edge01.itdc.ge/puls/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_rtv.png" group-title="🇬🇪Грузинские🍷",რაგბი TV「FHD」
+http://nue01-edge01.itdc.ge/rtv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_radioimedi.png" group-title="🇬🇪Грузинские🍷",რადიო იმედი「HD」
+http://nue01-edge01.itdc.ge/radioimedi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",რეგიონ ნიუსი「FHD」🌈
+http://nue01-edge01.itdc.ge/marneulitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_rioni.png" group-title="🇬🇪Грузинские🍷",რიონი「HD」
+http://nue01-edge01.itdc.ge/rioni/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_rioni2.png" group-title="🇬🇪Грузинские🍷",რიონი 2「HD」
+https://live.nexytv.net/nexy_tv.ge.rioni2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_rustavi2hqnew.png" group-title="🇬🇪Грузинские🍷",რუსთავი 2「HD」
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_drotv.png" group-title="🇬🇪Грузинские🍷",სამეფო არხი「FHD」
+http://nue01-edge01.itdc.ge/drotv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_sdasutv.png" group-title="🇬🇪Грузинские🍷",სდასუ TV「FHD」
+http://nue01-edge01.itdc.ge/sdasutv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",სეზონი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/sezonitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silkdocumentary.png" group-title="🇬🇪Грузинские🍷",სილქ დოკუმენტური「SD」
+http://nue01-edge01.itdc.ge/silkdocumentary/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silkmoviecollection.png" group-title="🇬🇪Грузинские🍷",სილქ კოლექცია「HD」
+http://nue01-edge01.itdc.ge/silkmoviecollection/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silksport1.png" group-title="🇬🇪Грузинские🍷",სილქ სპორტი 1「HD」
+http://nue01-edge01.itdc.ge/silksport1/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silksport2.png" group-title="🇬🇪Грузинские🍷",სილქ სპორტი 2「HD」
+http://nue01-edge01.itdc.ge/silksport2/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silksport3.png" group-title="🇬🇪Грузинские🍷",სილქ სპორტი 3「HD」
+http://nue01-edge01.itdc.ge/silksport3/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silk_sport4.png" group-title="🇬🇪Грузинские🍷",სილქ უნივერსალი「HD」
+http://nue01-edge01.itdc.ge/silk_sport4/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silkkids.png" group-title="🇬🇪Грузинские🍷",სილქ ქიდსი「HD」
+http://nue01-edge01.itdc.ge/silkkids/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_silkhollywood.png" group-title="🇬🇪Грузинские🍷",სილქ ჰოლივუდი「HD」
+http://nue01-edge01.itdc.ge/silkhollywood/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/22.png" group-title="🇬🇪Грузинские🍷",სტარვიზია「HD」
+http://nue01-edge01.itdc.ge/starvision/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",სტერეო+「FHD」🌈
+http://nue01-edge01.itdc.ge/stereoplus/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_sferotv.png" group-title="🇬🇪Грузинские🍷",სფერო TV「FHD」🌈
+http://nue01-edge01.itdc.ge/sferotv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_parvanatv.png" group-title="🇬🇪Грузинские🍷",ფარვანა TV「HD」
+http://nue01-edge01.itdc.ge/parvanatv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_formula.png" group-title="🇬🇪Грузинские🍷",ფორმულა「HD」
+http://nue01-edge01.itdc.ge/formula/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_qartuli.png" group-title="🇬🇪Грузинские🍷",ქართული TV「HD」
+http://nue01-edge01.itdc.ge/qartuli/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_kartuliarkhi.png" group-title="🇬🇪Грузинские🍷",ქართული არხი「FHD」🌈
+http://nue01-edge01.itdc.ge/kartuliarkhi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_shonitv.png" group-title="🇬🇪Грузинские🍷",შონი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/shonitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/45.png" group-title="🇬🇪Грузинские🍷",ჩვენი არხი「HD」
+http://nue01-edge01.itdc.ge/chveniarkhi/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_cisartkela.png" group-title="🇬🇪Грузинские🍷",ცისარტყელა「FHD」🌈
+http://nue01-edge01.itdc.ge/cisartkela/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_chadrakitv.png" group-title="🇬🇪Грузинские🍷",ჭადრაკი TV「FHD」🌈
+http://nue01-edge01.itdc.ge/chadrakitv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mar.tv/logos/320/57.png" group-title="🇬🇪Грузинские🍷",ჯორჯიან თაიმსი「HD」
+http://nue01-edge01.itdc.ge/gttv/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81174/logo_y3oDePmfvi.jpg" group-title="🇬🇪Грузинские🍷",📻Electronauts
+https://stream.zeno.fm/4d98pq6cwg0uv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008241/logo_RikDtM9gJG.jpg" group-title="🇬🇪Грузинские🍷",📻FM.GE 95.9 FM
+https://st.fm.ge:8443/prime
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008318/logo_rozaci2tNY.jpg" group-title="🇬🇪Грузинские🍷",📻Star FM 93.9 FM
+https://nue01-edge01.itdc.ge/fm-star-93.9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81161/logo_8dxYl7W26h.jpg" group-title="🇬🇪Грузинские🍷",📻ავტორადიო 95.1 FM
+https://tv.cdn.xsg.ge/cld9-0386/avtoradio/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1010552/logo_xvW9s64Uup.jpg" group-title="🇬🇪Грузинские🍷",📻ათინათი 105.9 FM (ზუგდიდი)
+https://www.radioatinati.ge/mp3-radioatinatifm
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81153/logo_AXRcHCn2tR.jpg" group-title="🇬🇪Грузинские🍷",📻ამრა
+https://streamer.radio.co/s34b5469e0/listen
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81168/logo_JracEezcVv.jpg" group-title="🇬🇪Грузинские🍷",📻არ დაიდარდო 96.7 FM
+https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1010551/logo_R810Qthmqj.jpg" group-title="🇬🇪Грузинские🍷",📻არგო 101.5 FM (ზესტაფონი)
+http://45.143.109.51:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",📻აფხაზეთის ხმა 98.9 FM
+https://nue01-edge01.itdc.ge/fm-abkhazia-98.9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81165/logo_5iScxXcV29.jpg" group-title="🇬🇪Грузинские🍷",📻აჭარა 105.5 FM
+https://edge.mixlr.com/channel/bzorq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81175/logo_iZv6lOrOs7.jpg" group-title="🇬🇪Грузинские🍷",📻ბათუმი 93.7 FM
+https://nue01-edge01.itdc.ge/fm-batumi-93.7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008269/logo_b1Mq6lGO72.jpg" group-title="🇬🇪Грузинские🍷",📻დარდიმანდი 97.1 FM
+https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008312/logo_ZmweOzaWI9.jpg" group-title="🇬🇪Грузинские🍷",📻ვინილი 99.7 FM
+https://nue01-edge01.itdc.ge/fm-vinili-99.7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81160/logo_dmLz9dypHF.jpg" group-title="🇬🇪Грузинские🍷",📻თბილისი 93.5 FM
+https://nue01-edge01.itdc.ge/fm-tbilisi-93.5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81173/logo_FpswLiPW6t.jpg" group-title="🇬🇪Грузинские🍷",📻თვისტომი
+https://s2.radio.co/sa04dce859/listen
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",📻თრიალეთი 104.9 FM
+https://nue01-edge01.itdc.ge/fm-trialeti-104.9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",📻ივერია 105.5 FM
+https://patriarchate.ge/radio/105-5.wpl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://embed.myvideo.ge/v3_imgs/tv/tv_radioimedi.png" group-title="🇬🇪Грузинские🍷",📻იმედი 105.9 FM
+https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008313/logo_b2jshN6gWr.jpg" group-title="🇬🇪Грузинские🍷",📻კომერსანტი 95.5 FM
+https://radio.cdn.xsg.ge/fm-commersant-95.5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008274/logo_eIKjNc04yy.jpg" group-title="🇬🇪Грузинские🍷",📻მაესტრო 94.7 FM
+https://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81171/logo_ljGMTMW8Sr.jpg" group-title="🇬🇪Грузинские🍷",📻მარნეული 96.9 FM
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81176/logo_jxgNkVTCJO.jpg" group-title="🇬🇪Грузинские🍷",📻მუტანტი
+https://listen.radioking.com/radio/282820/stream/328621
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81169/logo_e1yB3nnXs0.jpg" group-title="🇬🇪Грузинские🍷",📻ნორი 100.1 FM (ნინოწმინდა)❌
+http://iis.ge:8000/nor.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008322/logo_bO3sg6lY2M.jpg" group-title="🇬🇪Грузинские🍷",📻ობიექტივი 105.1 FM
+https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",📻ოდიში+ (ზუგდიდი) 102.9 FM
+https://live.radio.odishi.ge/odishi.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81167/logo_Lfkc65JYby.jpg" group-title="🇬🇪Грузинские🍷",📻პალიტრა 103.9 FM
+https://radiostream.palitra.ge/stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81154/logo_OWy0IGhmmh.jpg" group-title="🇬🇪Грузинские🍷",📻პოზიტივი 104.3.FM
+https://stream.radiojar.com/sr4vzamzfnruv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.myvideo.ge/media/cache/image/15282/b3989ae0-6895-11e8-b6a8-3931e27bc2e1_100x100.png" group-title="🇬🇪Грузинские🍷",📻რადიო 4 97.8 FM (რუსთავი)
+https://nue01-edge01.itdc.ge/fm-radio4-97.8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008320/logo_F9LKFYZmTT.jpg" group-title="🇬🇪Грузинские🍷",📻რიონი 105.5 FM (ქუთაისი)
+https://video.rionitv.com/s;stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008132/logo_ztWMVLYONt.jpg" group-title="🇬🇪Грузинские🍷",📻საქართველოს რადიო 102.3 FM
+https://tv.cdn.xsg.ge/gpb-radio1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008135/logo_8yatkxaSEs.jpg" group-title="🇬🇪Грузинские🍷",📻საქართველოს რადიო მუსიკა 100.9 FM
+https://tv.cdn.xsg.ge/gpb-radio2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1010734/logo_ICsfWfofmQ.jpg" group-title="🇬🇪Грузинские🍷",📻სივრცე 98.5 FM
+https://proxy.streamer.mediabox.ge/ice/8000/sivrce
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008262/logo_YapxaiY01r.jpg" group-title="🇬🇪Грузинские🍷",📻ურბანიკი 99.3 FM
+https://st.fm.ge:8443/URBANIQUE2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81163/logo_PRxrXulosK.jpg" group-title="🇬🇪Грузинские🍷",📻უცნობი 98.1 FM
+https://nue01-edge01.itdc.ge/fm-ucnobi-98.1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1005471/logo_D83FnMTYub.jpg" group-title="🇬🇪Грузинские🍷",📻ფორტუნა 106.9 FM
+https://tv.cdn.xsg.ge/cld9-0386/fortuna/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1006993/logo_tgbRG3odaH.jpg" group-title="🇬🇪Грузинские🍷",📻ფორტუნა პლიუსი 103.5 FM
+http://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇬🇪Грузинские🍷",📻ქალაქი 101.9 FM
+https://nue01-edge01.itdc.ge/fm-qalaqi-101.9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008243/logo_a30L8oodiQ.jpg" group-title="🇬🇪Грузинские🍷",📻ქალების რადიო 93.1 FM
+https://st.fm.ge:8443/woman
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008315/logo_dQbWUztUpg.jpg" group-title="🇬🇪Грузинские🍷",📻ჩვენებური 88.1.FM
+https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://big-radio.net/uploads/posts/2022-01/1641623098_citrus-fm.png" group-title="🇬🇪Грузинские🍷",📻ციტრუსი 97.3 FM (ბათუმი)
+https://nue01-edge01.itdc.ge/fm-citrus-97.3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81164/logo_39JLUfhTv4.jpg" group-title="🇬🇪Грузинские🍷",📻ძველი ქალაქი 107.9 FM
+http://iis.ge:8000/radiodk.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1008265/logo_cYlhONn1y4.jpg" group-title="🇬🇪Грузинские🍷",📻ჯორჯიან თაიმსი 92.3 FM
+https://nue01-edge01.itdc.ge/fm-georgiantimes-92.3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/1010736/logo_6QIiX1sMvy.jpg" group-title="🇬🇪Грузинские🍷",📻ჯუკბოქსი 94.3 FM
+https://stream.radiojukebox.ge/stream.ogg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.pcradio.app/media/logos/180/81162/logo_fYca0zNbhx.jpg" group-title="🇬🇪Грузинские🍷",📻ჰერეთი 102.8 FM (ლაგოდეხი)
+http://iis.ge:8000/hereti.mp3
 
 👁️‍🗨️НАБЛЮДАТЕЛЬНЫЕ🕵🏼‍♂️
 
