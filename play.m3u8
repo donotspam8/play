@@ -242,7 +242,7 @@ http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="🍿Кино зарубежное🎦",Еврокино「FHD」
 http://stream.mcquack.net/385/index.m3u8
 
-#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="🍿Кино зарубежное🎦",Индийское кино「SD」
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="https://iptvx.one/picons/indiyskoe-kino.png" group-title="🍿Кино зарубежное🎦",Индийское кино「SD」
 http://stream.mcquack.net/104/index.m3u8
 
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="🍿Кино зарубежное🎦",Кинеко「SD」
@@ -260,7 +260,7 @@ http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="🍿Кино зарубежное🎦",Киносвидание「FHD」
 http://stream.mcquack.net/171/index.m3u8
 
-#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="🍿Кино зарубежное🎦",Киносемья「FHD」
+#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://iptvx.one/picons/kinosemiya.png" group-title="🍿Кино зарубежное🎦",Киносемья「FHD」
 http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="🍿Кино зарубежное🎦",Киноужас「FHD」
